@@ -2,9 +2,6 @@
 
 ## Description
 Circle Shot is a simple project I just created to practice C#. In this game, you control a circle that shoots boxes.
-![CircleShot_Demo (2)](https://github.com/homanfag/Circle-Gun/assets/140942892/5e0a6c39-1110-4aaa-a04e-03654b29e8bf)
-
-
 
 
 ## Features
