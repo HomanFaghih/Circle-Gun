@@ -8,8 +8,9 @@ Circle Shot is a simple project I just created to practice C#. In this game, you
 
 - Simple gameplay
 - Shooting mechanic
-- Move player around the screen
+- Move the player around the screen
 - Aim and rotate player with mouse position on screen
+- Camera shake effect when an enemy is killed
 
 ## How to Play
 
@@ -22,7 +23,18 @@ Circle Shot is a simple project I just created to practice C#. In this game, you
 
 To run the project locally, follow these steps:
 
-1. Clone the repository:
+1. Clone the [repository](https://github.com/homanfag/Circle-Gun/)
+
+2. Open the project in Unity by following these steps:
+   - Launch Unity Hub.
+   - Click on the "Projects" tab.
+   - Click on "Add" and select the folder where you cloned the repository.
+   - Once the project is added to Unity Hub, click on it to open it in Unity.
+
+3. You're now ready to build and run the project within the Unity Editor.
 
 
 
+
+## Issues
+Enemies spawn near the player
