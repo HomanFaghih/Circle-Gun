@@ -1,7 +1,7 @@
 # Circle shot
 
 ## Description
-Circle Shot is a simple project I just created to practice C#. In this game, you control a circle that shoots boxes.
+Circle Shot is a simple unity project I just created to practice C#. In this game, you control a circle that shoots boxes.
 
 
 
